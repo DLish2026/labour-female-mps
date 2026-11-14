@@ -1,2 +1,0 @@
-const mps = [{"name": "Ms Diane Abbott", "email": "diane.abbott.office@parliament.uk", "constituency": "Hackney North and Stoke Newington", "party": "Labour"}, {"name": "Sagal Abdi-Wali", "email": "sagal.abdiwali.mp@parliament.uk", "constituency": "Holborn and St Pancras", "party": "Labour"}];
-// Full data will need to be uploaded separately due to size limits in this interface.
